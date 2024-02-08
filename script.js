@@ -49,7 +49,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             document.getElementById('sadGifContainer').style.display = 'block';
 
             // Modificar el botón "No"
-            document.getElementById('noBtn').innerHTML = '¡Oh no! ¿Estás seguro?';
+            document.getElementById('noBtn').innerHTML = '¡Oh no! ¿Estás segura?';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
           
             
@@ -96,7 +96,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
         case 3:
            
-            document.getElementById('noBtn').innerHTML = '¿Eres positva?';
+            document.getElementById('noBtn').innerHTML = '¿Eres positiva?';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
